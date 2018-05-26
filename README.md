@@ -1,2 +1,2 @@
 # HibernateProyectos
-Aprendiendo Hibernate
+Hibernate con NetBeans
